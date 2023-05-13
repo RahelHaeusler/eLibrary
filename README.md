@@ -8,6 +8,8 @@ Jervin Ureath <br>
 
 **Class:** 3b - BIT PT
 
+**NOTE: This is the new repository !!** We needed to start again from scratch, as in we had too many problems in the code from the old repository. <br>
+
 Format: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # 1. Analysis *Scenario ideation, use case analysis and user story writing*
