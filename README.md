@@ -108,13 +108,13 @@ Link to the domain model: https://lucid.app/lucidchart/bfa39a78-e2ec-4b1a-b63b-1
 ## API design
 To test APIs use [this collection](https://galactic-star-276963.postman.co/workspace/Birtney~ebb933fd-cc47-488d-bce0-7eada0cf63ff/collection/26197022-9ec1ab6f-d964-4437-a948-2a0695195da6?action=share&creator=26197022) in Potsman in Workspace Birtney. <br>
 We created the API design with [Swagger Editor](https://editor.swagger.io/), below you can see a screen shot of the generated documentation.
-If you want to see or edit the code, you can import the [json file](https://github.com/michimel/electronic-library/blob/f9ad420b08456aa54977b1b3c0ec476764e7d551/images/API%20(Swagger%20Editor)/eLibraryAPIs.json) or [yaml file](https://github.com/michimel/electronic-library/blob/f9ad420b08456aa54977b1b3c0ec476764e7d551/images/API%20(Swagger%20Editor)/eLibraryAPIs.yaml) into Swagger Editor. <br>
+If you want to see or edit the code, you can import the [json file](https://github.com/RahelHaeusler/eLibrary/blob/d3759b226bef9c4fe8f52805d1c7b5f5b38a5d7f/Documentation%20Sources/API%20(Swagger%20Editor)/eLibraryAPIs.json) or [yaml file](https://github.com/RahelHaeusler/eLibrary/blob/d3759b226bef9c4fe8f52805d1c7b5f5b38a5d7f/Documentation%20Sources/API%20(Swagger%20Editor)/eLibraryAPIs.yaml) into Swagger Editor. <br>
 
-<img src="https://github.com/michimel/electronic-library/blob/f9ad420b08456aa54977b1b3c0ec476764e7d551/images/API%20(Swagger%20Editor)/API%20Swagger%20Editor_%20Header,%20Tag(User).png"> <br>
+<img src="https://github.com/RahelHaeusler/eLibrary/blob/d3759b226bef9c4fe8f52805d1c7b5f5b38a5d7f/Documentation%20Sources/API%20(Swagger%20Editor)/1%20API%20Swagger%20Editor_%20Header%2C%20Tag(User).png"> <br>
 
-<img src="https://github.com/michimel/electronic-library/blob/f9ad420b08456aa54977b1b3c0ec476764e7d551/images/API%20(Swagger%20Editor)/API%20Swagger%20Editor_Tag(Books,Loan).png"> <br>
+<img src="https://github.com/RahelHaeusler/eLibrary/blob/d3759b226bef9c4fe8f52805d1c7b5f5b38a5d7f/Documentation%20Sources/API%20(Swagger%20Editor)/2%20API%20Swagger%20Editor_Tag(Books%2CLoan).png"> <br>
 
-<img src="https://github.com/michimel/electronic-library/blob/f9ad420b08456aa54977b1b3c0ec476764e7d551/images/API%20(Swagger%20Editor)/API%20Swagger%20Editor_Schemas.png"> <br>
+<img src="https://github.com/RahelHaeusler/eLibrary/blob/d3759b226bef9c4fe8f52805d1c7b5f5b38a5d7f/Documentation%20Sources/API%20(Swagger%20Editor)/3%20API%20Swagger%20Editor_Schemas.png"> <br>
 
 
 # 4. Data and API implementation *mplementation of data access and business logic layers and API*
