@@ -5,6 +5,14 @@ import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
 import ch.fhnw.crm.crmwebservice.data.domain.Customer;
 import ch.fhnw.crm.crmwebservice.data.repository.CustomerRepository;
+//import java.util.List;
+import ch.fhnw.crm.crmwebservice.data.domain.Book;
+import ch.fhnw.crm.crmwebservice.data.repository.BookRepository;
+//import ch.fhnw.crm.crmwebservice.data.domain.Author;
+//import ch.fhnw.crm.crmwebservice.data.repository.AuthorRepository;
+//import ch.fhnw.crm.crmwebservice.data.domain.Genre;
+//import ch.fhnw.crm.crmwebservice.data.repository.GenreRepository;
+
 
 @Service
 public class BookService {
@@ -26,9 +34,11 @@ public class BookService {
     }
 
 //create methode to get all books
-    public List<Book> getAllBooks() {
+/*
+   public List<Book> getAllBooks() {
         return BookRepository.findAll();
     }
+*/
 
 //create methode to get a book by id
     public Book getBookById(int book_id) {
