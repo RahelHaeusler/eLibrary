@@ -8,7 +8,7 @@ public class Book {
     private boolean borrowed;
     private List<Author> authors;
     private List<Genre> genres;
-}
+
 
 public void setBook_id(int book_id) {
     this.book_id = book_id;
@@ -65,5 +65,8 @@ public void setGenres(List<Genre> genres) {
 public List<Genre> getGenres() {
     return genres;
 }
+
+}
+
 
 
