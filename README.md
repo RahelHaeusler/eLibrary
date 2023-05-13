@@ -94,7 +94,7 @@ Link: https://lucid.app/lucidchart/f763dd83-1fa8-4140-bbcd-0a12ec91b5a9/edit?pag
 
 ## Microservices
 We tried to identify the microservices, domains, aggregates, and entities in the application using the approach of Domain Driven Design (DDD). <br>
-<img src="https://github.com/michimel/electronic-library/blob/bd2893c3f7c0fa2f17f8602c88eba3398d5ababe/images/Microservices/Microservices.png"> <br>
+<img src="https://github.com/RahelHaeusler/eLibrary/blob/4abf14e8bbb46f772205ecde77e77221b7b25ca7/Documentation%20Sources/Microservices/Microservices.png"> <br>
 
 ## Domain Model
 Link to the domain model: https://lucid.app/lucidchart/bfa39a78-e2ec-4b1a-b63b-18829cec80c9/edit?beaconFlowId=7134D7D032DE5064&invitationId=inv_0148f8f5-f3f9-433a-8296-e9667492d473&page=0_0# <br>
