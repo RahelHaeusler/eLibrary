@@ -91,7 +91,7 @@ The following picture gives some information about the colours used in the mock 
 <img src="https://github.com/RahelHaeusler/eLibrary/blob/7706bbe6c3fd276c6d08869bced551382a1375b3/Documentation%20Sources/Mock%20up/6%20info%2C%20improvements.png"> <br>
 
 # 2. Domain Design *Definition of domain model*
-## Services/Methods --> Rahel?
+## Services/Methods ?--> @Rahel
 Link: https://lucid.app/lucidchart/f763dd83-1fa8-4140-bbcd-0a12ec91b5a9/edit?page=0_0&invitationId=inv_e39b7e2c-83e9-4dcb-9dfb-ffc701bf88de#
 
 ## Microservices
@@ -99,6 +99,7 @@ We tried to identify the microservices, domains, aggregates, and entities in the
 <img src="https://github.com/RahelHaeusler/eLibrary/blob/4abf14e8bbb46f772205ecde77e77221b7b25ca7/Documentation%20Sources/Microservices/Microservices.png"> <br>
 
 ## Domain Model
+**change in Book Entity set to list for gerne and author !!** @Michele
 Link to the domain model: https://lucid.app/lucidchart/bfa39a78-e2ec-4b1a-b63b-18829cec80c9/edit?beaconFlowId=7134D7D032DE5064&invitationId=inv_0148f8f5-f3f9-433a-8296-e9667492d473&page=0_0# <br>
 
 <img src="https://github.com/RahelHaeusler/eLibrary/blob/14496eebc298878308ee93f31e11a8d4a1476cf2/Documentation%20Sources/Domain%20Model/DomainModel%20UML%20CLass%20Diagram.png"> <br> 
