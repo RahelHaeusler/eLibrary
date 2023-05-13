@@ -18,5 +18,5 @@ public interface BookRepository extends JpaRepository<Book, Integer> {
     Book findByBorrowed(boolean borrowed);
 //    Book findByAuthor(List<Author> authors);
 //    Book findByGenre(List<Genre> genres);
-    Object findByISBNAndIdAndTitleNot(String isbn, int book_id, String title);
+
 }

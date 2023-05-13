@@ -21,7 +21,7 @@ public class BookController {
     @Autowired
     private BookService bookService;
 
-// TODO: Test - remove later (not sure if it works)
+// TODO: Test - remove later (port works with HomeController default path "/" but the test paths are not working)
     @GetMapping("/test")
     public String testString() {
         return "This is a test generated in BookController class /test";

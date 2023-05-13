@@ -64,6 +64,7 @@ public boolean getBorrowed() {
     return borrowed;
 }
 
+// TODO: check what it should return
 public Book get() {
     return null;
 }

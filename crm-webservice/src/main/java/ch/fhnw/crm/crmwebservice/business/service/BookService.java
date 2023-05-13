@@ -1,5 +1,6 @@
 package ch.fhnw.crm.crmwebservice.business.service;
 
+import org.aspectj.weaver.ast.And;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
@@ -44,7 +45,7 @@ public class BookService {
             if (bookRepository.findByISBN(book.getISBN()) != null) {
                 throw new Exception("ISBN" + book.getISBN() + " already exists.");
             }
-        } else if (bookRepository.findByISBNAndIdAndTitleNot(book.getISBN(), book.getBook_id(),book.getTitle()) != null) {
+        } else if (Integer.toString(book.getBook_id()) != null && bookRepository.findByTitle(book.getTitle()) != null) {
             throw new Exception("Book ID " + book.getBook_id() + " with book title " + book.getTitle() + " already exists.");
         }
         bookRepository.save(book);
