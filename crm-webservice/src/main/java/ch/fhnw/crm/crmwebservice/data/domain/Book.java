@@ -1,6 +1,15 @@
-import javax.persistence.Entity;
-import javax.persistence.Id;
+package ch.fhnw.crm.crmwebservice.data.domain;
+
 import java.util.List;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.Table;
+
 
 
 @Entity
@@ -11,10 +20,10 @@ public class Book {
     private String title;
     private int year;
     private boolean borrowed;
-    private List<Author> authors;
-    private List<Genre> genres;
+    //private List<Author> authors;
+    //private List<Genre> genres;
 
-
+// getters and setters
 public void setBook_id(int book_id) {
     this.book_id = book_id;
 }
@@ -55,6 +64,11 @@ public boolean getBorrowed() {
     return borrowed;
 }
 
+public Book get() {
+    return null;
+}
+
+/*
 public void setAuthors(List<Author> authors) {
     this.authors = authors;
 }
@@ -62,7 +76,9 @@ public void setAuthors(List<Author> authors) {
 public List<Author> getAuthors() {
     return authors;
 }
+*/
 
+/*
 public void setGenres(List<Genre> genres) {
     this.genres = genres;
 }
@@ -70,6 +86,7 @@ public void setGenres(List<Genre> genres) {
 public List<Genre> getGenres() {
     return genres;
 }
+*/
 
 }
 
