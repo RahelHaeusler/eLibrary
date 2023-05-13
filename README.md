@@ -99,7 +99,7 @@ We tried to identify the microservices, domains, aggregates, and entities in the
 ## Domain Model
 Link to the domain model: https://lucid.app/lucidchart/bfa39a78-e2ec-4b1a-b63b-18829cec80c9/edit?beaconFlowId=7134D7D032DE5064&invitationId=inv_0148f8f5-f3f9-433a-8296-e9667492d473&page=0_0# <br>
 
-<img src="https://github.com/michimel/electronic-library/blob/10cf4d94c07ce48a929b47f083a985fe864b70a0/images/Domain%20Model/DomainModel%20UML%20CLass%20Diagram.png"> <br> 
+<img src="https://github.com/RahelHaeusler/eLibrary/blob/14496eebc298878308ee93f31e11a8d4a1476cf2/Documentation%20Sources/Domain%20Model/DomainModel%20UML%20CLass%20Diagram.png"> <br> 
 
 
 # 3. Business Logic and API design *Definition of business logic and API*
