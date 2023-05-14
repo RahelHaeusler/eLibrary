@@ -15,6 +15,7 @@ import jakarta.persistence.Table;
 @Entity
 public class Book {
     @Id
+    @Column
     private int book_id;
     private String ISBN;
     private String title;

@@ -7,3 +7,24 @@ create table book (book_id integer not null, isbn varchar(255), borrowed boolean
 2023-05-13 18:05:28 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
 create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:32:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:34:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:35:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:37:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:37:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:40:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
+2023-05-14 08:40:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), [*]year integer not null, primary key (book_id))"; expected "identifier"; SQL statement:
+create table book (book_id integer not null, isbn varchar(255), borrowed boolean not null, title varchar(255), year integer not null, primary key (book_id)) [42001-214]
